@@ -2,6 +2,8 @@
  * Start Bootstrap - Freelancer v5.0.0 (https://startbootstrap.com/template-overviews/freelancer)
  * Copyright 2013-2018 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/master/LICENSE)
+ * 18BC9C
+ * F5855F
  */
 
 body {
@@ -49,7 +51,7 @@ hr.star-light {
 
 hr.star-light:after {
   color: #fff;
-  background-color: #18BC9C;
+  background-color: #F5855F;
 }
 
 hr.star-dark {
@@ -124,7 +126,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #18BC9C;
+  color: #F5855F;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
@@ -132,7 +134,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #18BC9C;
+  color: #F5855F;
 }
 
 #mainNav .navbar-toggler {
@@ -157,11 +159,11 @@ section h2 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #18BC9C;
+    background: #F5855F;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #18BC9C;
+    background: #F5855F;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
